@@ -1,0 +1,17 @@
+Write a function named storyBuilder, takes three arguments
+and return on object.
+arguments :
+1- array1 : arrayOftitles.
+each title is an object with three properties :
+{type :'',
+keywords : '',
+topic :''}
+2- array2 : arrayOfparagraphs.
+each paragraph is an object with three properties :
+{title :'',
+text;''
+}
+3- storyType : a string.
+
+returns a story : string.
+
