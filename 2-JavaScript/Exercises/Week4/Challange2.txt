@@ -3,8 +3,8 @@ takes two argumnts (arrayOfcities, ArrayOfprefernces)
 each city is an Object {name:'', population:'', continent:'', advice:''}
 each prefernce is either name or population or continent.
 
-the function will return the prefered city if it exists 
-or no cities if not.
+the function will return array of prefered citeies
+ if it any, or no cities if not.
 Example :
 
 let arrayOfcities = [city1, city2, city3];
