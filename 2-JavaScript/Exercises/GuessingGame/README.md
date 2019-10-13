@@ -20,22 +20,23 @@
 
 ***A guidance of the code is in the next parts:***
 
-**1.** You will have an object with the data of the game: an array with possible words to guess, the chosen word to guess, the word as an array of letters and the number of tries the person have. 
-**2.** For the game some functions to show the letters, word and obtain the input of the user, are given. You just need to code the logic of the game. For this you should code the functions startGame() and Game().
-**3.** For the startGame function you should: 
+* **1.** You will have an object with the data of the game: an array with possible words to guess, the chosen word to guess, the word as an array of letters and the number of tries the person have. 
+* **2.** For the game some functions to show the letters, word and obtain the input of the user, are given. You just need to code the logic of the game. For this you should code the functions startGame() and Game().
+* **3.** For the startGame function you should: 
     - make a random selector to choose a word from the given array, then assign this to the word property of the object. 
     - Create an array full of '_', one of these for each letter of the word and assign it to the property arrayOfLetters. For example:
-        - word: array --> arrayOfLetters: ['_' , '_' , '_' , '_' , '_']
+        - word: array --> arrayOfLetters: ['\_' , '\_' ,'\_' ,'\_' ,'\_']
     - Also assign the number of tries the person will have. 
     - At the end of the startGame function please call the function showWord to show the empty array to the user. 
     - If you think is needed to add some more things to this function for it to works you are free to do it.
-**4.** For the Game function you will have as a parameter the input that the user would write. For this function accomplish the following tasks:  
+
+* **4.** For the Game function you will have as a parameter the input that the user would write. For this function accomplish the following tasks:  
     - The idea is to receive a letter, not more than 1. you should make a validation for this.
     - Is up to you the methods to use for the logic of the game. A good approach is to use RegExpressions for the comparation of the word and the input letter.
     - The Game function should assign at the end of each call the following properties to the GameData object:
         - arrayOfLetters in case of positive guess, should add the letter in the correct position. for example:
-        word: array, input: a --> arrayOfLetters: ['A' , '_' , '_' , 'a' , '_']<br>
-        word: array, input: y --> arrayOfLetters: ['A' , '_' , '_' , 'a' , 'y']
+        word: array, input: a --> arrayOfLetters: ['A' , '\_' , '\_' , 'a' , '\_']<br>
+        word: array, input: y --> arrayOfLetters: ['A' , '\_' , '\_' , 'a' , 'y']
         - numberOfTries should decrease in each incorrect guess or repeated letter.
     - After deciding if the guess was correct or incorrect, and the assigns were done, inside the game function a call for the showMessages function should be done with a parameter. This parameter should be true for correct guesses or false for incorrect guesses.
     - The Game function also should validate if the user already guessed the complete word or used all of the tries. In the case of winning the game a call to the showResult function is done, with a parameter equal to true. In case of losing the game, the showResult function is called with a parameter equal to false. Also after this, the game should be restarted by calling the function startGame.
