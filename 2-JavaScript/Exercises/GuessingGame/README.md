@@ -34,7 +34,7 @@
     - The idea is to receive a letter, not more than 1. you should make a validation for this.
     - Is up to you the methods to use for the logic of the game. A good approach is to use RegExpressions for the comparation of the word and the input letter.
     - The Game function should assign at the end of each call the following properties to the GameData object:
-        - arrayOfLetters in case of positive guess, should add the letter in the correct position. for example:
+        - arrayOfLetters in case of positive guess, should add the letter in the correct position. for example:<br>
         word: array, input: a --> arrayOfLetters: ['A' , '\_' , '\_' , 'a' , '\_']<br>
         word: array, input: y --> arrayOfLetters: ['A' , '\_' , '\_' , 'a' , 'y']
         - numberOfTries should decrease in each incorrect guess or repeated letter.
