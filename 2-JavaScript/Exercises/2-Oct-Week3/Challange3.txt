@@ -7,7 +7,7 @@ removeVowels("candy") ➞ "cndy"
 removeVowels("hello") ➞ "hll"
 //Note : The "e" is removed, but also the "o" is removed
 
-removeVowels("apple") ➞ "pple"
+removeVowels("apple") ➞ "ppl"
 
 Notes
 
