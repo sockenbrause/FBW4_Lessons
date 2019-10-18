@@ -29,6 +29,6 @@ re = /hello/i; // i =  case insensitive
 // console.log(result);
 
 // replace() - Return new string with some or all matches of a pattern
-// const str = 'Hello There';
+// const str = 'the time is 9';
 // const newStr = str.replace(re, 'Hi');
 // console.log(newStr);
