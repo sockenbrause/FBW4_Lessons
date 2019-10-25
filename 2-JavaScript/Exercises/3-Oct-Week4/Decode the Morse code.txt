@@ -86,7 +86,7 @@ All the test strings would contain valid Morse code,
 so you may skip checking for errors and exceptions.
 
 
-Good luck!!!
+Good luck!!
 
 
 
