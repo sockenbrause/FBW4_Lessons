@@ -24,3 +24,15 @@ const address = {
 const today = new Date();
 console.log(today);
 console.log(typeof today);
+
+//REFERENCE vs PRIMITIVE TYPES
+let x = {
+  name: 'Safwan',
+  age: 23
+  };
+  let y = 'abc';
+  let a = x;
+  let b = y;
+  x.name = 'Saf1';
+  console.log(a);
+  //console.log(x, y, a, b); // -> 10, 'abc', 10, 'abc'
