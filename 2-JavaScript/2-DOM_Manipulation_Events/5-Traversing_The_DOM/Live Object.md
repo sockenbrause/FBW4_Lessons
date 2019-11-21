@@ -44,6 +44,6 @@ An `HTMLCollection` in the HTML DOM is live; it is automatically updated when th
 
 For further information, please refer to: the  following MDN Pages :
 
- - [MDN NodeList Reference]([https://developer.mozilla.org/en-US/docs/Web/API/NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList))  page.
- -   [MDN HTMLCollection Reference]([https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection))  page.
+ - [MDN NodeList Reference](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)  page.
+ -   [MDN HTMLCollection Reference](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection)  page.
  
