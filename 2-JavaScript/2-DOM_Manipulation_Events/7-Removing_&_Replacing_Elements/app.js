@@ -1,3 +1,16 @@
+//REPLACE Node
+/*const newTxtNode = document.createTextNode(' New text List item')
+
+const listItem = document.querySelector('li')
+
+const childrenOfLi = listItem.childNodes;
+
+const oldTxtNode = childrenOfLi[0]
+
+listItem.replaceChild(newTxtNode, oldTxtNode);
+
+console.log(typeof oldTxtNode)*/
+
 // REPLACE ELEMENT
 
 // Create Element
