@@ -36,7 +36,7 @@ By the end of this sub module, the learners should be able to:
 
   
 
-> Excerpt from the [curriculum content skeleton](https://docs.google.com/spreadsheets/d/1VoE5EOypjYJsOUufkZ6V3DzjLFOw0RVtZ8uqiIfiAd4/edit?usp=sharing)
+
 
   
 
@@ -76,11 +76,11 @@ The following section describes standalone exercises to give learners. For each 
 
 >
 
->  **Link**: https://github.com/DigitalCareerInstitute/BDL-navigating-movingaround/tree/master
+>  **Link**: https://github.com/FBW4-HEROS/FBW4_Lessons/tree/master/A_Basic-Digital-Literacy/01_Viewing-and-Navigating/BDL-navigating-movingaround-master
 
 >
 
->  **Solution**: https://github.com/DigitalCareerInstitute/BDL-navigating-movingaround/tree/solution
+>  **Solution**: https://github.com/FBW4-HEROS/FBW4_Lessons/tree/master/A_Basic-Digital-Literacy/01_Viewing-and-Navigating/BDL-navigating-movingaround-solution
 
   
 
