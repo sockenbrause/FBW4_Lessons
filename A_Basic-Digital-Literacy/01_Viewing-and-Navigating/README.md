@@ -76,11 +76,11 @@ The following section describes standalone exercises to give learners. For each 
 
 >
 
->  **Link**: 
+>  **Link**: https://github.com/DigitalCareerInstitute/BDL-navigating-movingaround/tree/master
 
 >
 
->  **Solution**: 
+>  **Solution**: https://github.com/DigitalCareerInstitute/BDL-navigating-movingaround/tree/solution
 
   
 
@@ -96,11 +96,11 @@ The following section describes standalone exercises to give learners. For each 
 
 >
 
->  **Link**:
+>  **Link**: https://github.com/DigitalCareerInstitute/BDL-viewing-read_dir/tree/master
 
 >
 
->  **Solution**: 
+>  **Solution**: https://github.com/DigitalCareerInstitute/BDL-viewing-read_dir/tree/solution
 
   
 
@@ -116,11 +116,11 @@ The following section describes standalone exercises to give learners. For each 
 
 >
 
->  **Link**: 
+>  **Link**: https://github.com/DigitalCareerInstitute/BDL-navigating-readingfiles/tree/master
 
 >
 
->  **Solution**: 
+>  **Solution**: https://github.com/DigitalCareerInstitute/BDL-navigating-readingfiles/tree/solution
 
   
 
@@ -136,11 +136,11 @@ The following section describes standalone exercises to give learners. For each 
 
 >
 
->  **Link**: 
+>  **Link**: https://github.com/DigitalCareerInstitute/BDL-viewing-help/tree/master
 
 >
 
->  **Solution**: 
+>  **Solution**: https://github.com/DigitalCareerInstitute/BDL-viewing-help/tree/solution
 
   
 
